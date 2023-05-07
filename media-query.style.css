@@ -2,10 +2,6 @@
 
 @media screen and (max-width: 600px) {
 
-    body {
-        background-color: gray;
-    }
-
     .logo {
         max-width: 400px;
     }
@@ -29,4 +25,5 @@
         bottom: 50px;
         opacity: 1;
     }
+
 }
