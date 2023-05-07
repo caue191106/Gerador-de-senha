@@ -1,6 +1,11 @@
 @charset "UTF-8";   
 
 @media screen and (max-width: 600px) {
+
+    body {
+        background-color: gray;
+    }
+
     .logo {
         max-width: 400px;
     }
